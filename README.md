@@ -1,2 +1,2 @@
 # ShadowFox
-Web Development Internship Tasks 
+Web Development Internship 
