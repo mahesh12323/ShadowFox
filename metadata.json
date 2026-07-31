@@ -1,6 +1,6 @@
 {
-  "name": "Mahesh Poludasu - Personal Portfolio",
-  "description": "Personal portfolio website of Mahesh Poludasu showcasing AI & ML skills, projects, resume, and interactive contact information.",
+  "name": "Client Project Workspace",
+  "description": "Full-stack client web development collaboration workspace with secure Google Meet session management, interactive roadmap.sh/full-stack tracker, security audits, and feature implementation board.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
